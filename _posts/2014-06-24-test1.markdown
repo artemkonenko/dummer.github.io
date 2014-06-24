@@ -1,10 +1,11 @@
 ---
-layout: default
+layout: post
 title: "Yet another stupid post"
 date: 2014-06-24 11:54
-comments: true
-categories: nope
+author: dummer
+categories: news
 ---
+
 Just 1'st test
 ==============
 
