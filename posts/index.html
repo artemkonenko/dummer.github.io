@@ -1,0 +1,18 @@
+---
+layout: default
+title: Posts
+---
+
+<div id="posts" class=home>
+  <h1>Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    <li>
+      <a class=post_title href="{{ post.url }}">{{ post.title }}</a><br />
+      <span class=post_meta><span class=post_date>{{ post.date | date_to_string }}</span> by <span class=post_author>{{ post.author }}</span></span><br />
+      <span class=post_summary>{{ post.content | truncatewords:35 | strip_html }}</span>
+    </li>
+    {% endfor %}
+  </ul>
+
+</div>
