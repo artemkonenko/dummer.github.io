@@ -1,0 +1,6 @@
+name: dummer.github.io
+markdown: redcarpet
+pygments: true
+redcarpet:
+  extensions: ["no_intra_emphasis"]
+title: Yet another blog
