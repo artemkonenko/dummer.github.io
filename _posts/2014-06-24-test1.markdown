@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Yet another stupid post"
 date: 2014-06-24 11:54
 comments: true
