@@ -1,5 +1,3 @@
-Testing pages...
-----------------
-
-
+Yet another dummies blog
+---
 
