@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Как делать ветки в своем форке"
-date: 2014-06-27 22:20
+date: 2014-09-14 01:50
 author: dummer
 categories: manuals
 ---
